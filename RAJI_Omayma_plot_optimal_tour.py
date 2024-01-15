@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan  2 16:33:37 2024
-
-@author: Omimiya
-"""
-
 import matplotlib.pyplot as plt
 
 def calculate_distance(tour, coordinates):
